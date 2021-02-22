@@ -1,4 +1,4 @@
-# JS-Function-Collections
+# JavaScript-Functions-Collection
 JavaScript Function Collections
 
  - setDateFormat()
